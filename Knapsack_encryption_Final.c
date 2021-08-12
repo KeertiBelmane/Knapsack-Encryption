@@ -78,7 +78,7 @@ int main()
     ch=fgetc(fin);
     j=0;
 
-    fout=fopen("E:/C_C++/CNS/Knapsack/smscopy.txt","w");
+    fout=fopen("E:/C_C++/CNS/Knapsack/smsencrypted.txt","w");
 
     while (ch!=EOF)
     {
