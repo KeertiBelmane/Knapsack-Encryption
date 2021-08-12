@@ -66,7 +66,6 @@ int main()
     n=j;
 
     printf("n=%d m=%d",n,m);
-    
     public_knapsack(n,m);
 
     int ch,decimal,deci_arr[30],encrypted;
